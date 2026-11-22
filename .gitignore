@@ -17,3 +17,8 @@ result-*
 
 # no-mistakes local validation state - never commit in this public repo
 .no-mistakes/
+
+# headless skill: how the controlling computer reaches this Mac, and its
+# pinned host key. Machine-specific, kept beside the clone, never tracked.
+headless.env
+known_hosts
