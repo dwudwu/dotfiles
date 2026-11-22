@@ -2,11 +2,14 @@
   "user": "studio",
   "hostName": "studio",
   "sshKeys": [
-    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbviOTyrtAMAlAtlQTSR4OzvsKj7HVCq8Paq1obEJb+ chenhu.wu@icloud.com"
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbviOTyrtAMAlAtlQTSR4OzvsKj7HVCq8Paq1obEJb+ chenhu.wu@icloud.com",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF2CCQnSvTLVdu3ddgz8gOPo0zjvoDzU08TvQ8wn63im MPB14"
   ],
   "keyOnlySsh": true,
   "autoLogin": true,
-  "tailscale": { "enable": true },
+  "tailscale": {
+    "enable": true
+  },
   "extras": {
     "neverSleep": true,
     "startAfterPowerLoss": true,
