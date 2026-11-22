@@ -16,6 +16,12 @@ in
     jq        # json on the command line
     lazygit
     neovim
+    # a headless Mac has no Xcode command line tools, so git itself comes from Nix
+    git
+    gh
+    bash      # bash 5; firstmate scripts need it
+    nodejs_22
+    pnpm
     # the font everything renders in
     nerd-fonts.hack
   ];

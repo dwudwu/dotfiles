@@ -36,6 +36,7 @@
     onActivation.extraFlags = [ "--force" ];
     brews = [
       "herdr"
+      "xcodes"   # installs Xcode without the App Store
     ];
     casks = [
       "wezterm"
