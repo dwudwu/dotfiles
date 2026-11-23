@@ -2,8 +2,10 @@
   "user": "studio",
   "hostName": "studio",
   "sshKeys": [
-    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbviOTyrtAMAlAtlQTSR4OzvsKj7HVCq8Paq1obEJb+ chenhu.wu@icloud.com",
-    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF2CCQnSvTLVdu3ddgz8gOPo0zjvoDzU08TvQ8wn63im MPB14"
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbviOTyrtAMAlAtlQTSR4OzvsKj7HVCq8Paq1obEJb+ mini-claw",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF2CCQnSvTLVdu3ddgz8gOPo0zjvoDzU08TvQ8wn63im MPB14",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFp0OsFxl+Tik+Wnie98Pga+xiZ3Q7p26TUleew73qFh studio",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJYidkm7xxLos8klKJEa0qEqKRXQZDWWsPYDcL1E6WtR work mbp16"
   ],
   "keyOnlySsh": true,
   "autoLogin": true,
